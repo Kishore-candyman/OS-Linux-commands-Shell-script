@@ -1,3 +1,6 @@
+## NAME: KISHORE M
+## REG NO.: 212224040161
+
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
